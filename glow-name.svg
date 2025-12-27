@@ -1,33 +1,44 @@
-<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg"><svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Gradiente para el texto -->
     <linearGradient id="glowText" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff">
-        <animate attributeName="stop-color"
-          values="#ffffff;#36BCF7FF;#ffffff"
-          dur="2s"
-          repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#36BCF7FF">
+        <animate attributeName="stop-color" values="#36BCF7FF;#ffffff;#36BCF7FF" dur="2s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#36BCF7FF">
-        <animate attributeName="stop-color"
-          values="#36BCF7FF;#ffffff;#36BCF7FF"
-          dur="2s"
-          repeatCount="indefinite" />
+      <stop offset="50%" stop-color="#ffffff">
+        <animate attributeName="stop-color" values="#ffffff;#36BCF7FF;#ffffff" dur="2s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#ffffff">
-        <animate attributeName="stop-color"
-          values="#ffffff;#36BCF7FF;#ffffff"
-          dur="2s"
-          repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#36BCF7FF">
+        <animate attributeName="stop-color" values="#36BCF7FF;#ffffff;#36BCF7FF" dur="2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Gradiente pulsante para la barra -->
+    <linearGradient id="pulseGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9f1c" stop-opacity="0.2">
+        <animate attributeName="stop-opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ffd166" stop-opacity="0.2">
+        <animate attributeName="stop-opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff9f1c" stop-opacity="0.2">
+        <animate attributeName="stop-opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
 
-  <text x="50%" y="55"
+  <!-- Texto animado -->
+  <text x="50%" y="60"
         text-anchor="middle"
-        font-size="48"
+        font-size="56"
         font-weight="bold"
         fill="url(#glowText)"
-        font-family="Segoe UI, sans-serif">
+        font-family="Segoe UI, sans-serif"
+        letter-spacing="2">
     Hi, I'm Yassin Azzouzi
   </text>
+
+  <!-- Barra pulsante -->
+  <rect x="100" y="110" width="700" height="10" rx="5" fill="#1f1f1f"/>
+  <rect x="100" y="110" width="700" height="10" rx="5" fill="url(#pulseGlow)"/>
 </svg>
