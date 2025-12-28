@@ -4,7 +4,7 @@
 
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Crazy+about+cybersecurity.+%F0%9F%94%90;Code.+Break.+Learn.+Repeat.+%F0%9F%94%81;Cybersecurity+%2B+Programming+%3D+%E2%9D%A4+%EF%B8%8F" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&width=600&height=90&lines=Crazy+about+cybersecurity.%F0%9F%94%90;Code.+Break.+Learn.+Repeat.%F0%9F%94%81;Cybersecurity+%2B+Programming+%3D+%E2%9D%A4+%EF%B8%8F;Coffee%E2%98%95" alt="Typing SVG" /></a>
 </p>
 
 
