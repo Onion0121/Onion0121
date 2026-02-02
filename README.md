@@ -65,9 +65,6 @@
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Onion0121)](https://github.com/Onion0121/github-readme-stats-fast)
 <br>
 
-<a href="https://github.com/Onion0121">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Onion0121&layout=compact&hide_border=true&title_color=00ff9c&text_color=00ff9c&bg_color=000000" width="375"/>
-</a>
 
 </div>
 
