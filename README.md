@@ -62,9 +62,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Onion0121">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Onion0121&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=000000" width="450"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onion0121)](https://github.com/Onion0121/github-readme-stats)
 
 <br>
 
