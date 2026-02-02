@@ -62,8 +62,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onion0121)](https://github.com/Onion0121/github-readme-stats)
-
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Onion0121)](https://github.com/Onion0121/github-readme-stats-fast)
 <br>
 
 <a href="https://github.com/Onion0121">
