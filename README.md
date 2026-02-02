@@ -16,7 +16,7 @@
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 </picture>
 
-- 🎓 **SMX (Microcomputer Systems and Networks)** — 2nd year (Grado Medio)
+- 🎓 **SMR (Microcomputer Systems and Networks)** — 2nd year (Grado Medio)
 - 📍 Tarragona, Spain
 - 🔐 Focused on **Cybersecurity**
 - 🌐 Web fundamentals (**HTML, CSS**)
