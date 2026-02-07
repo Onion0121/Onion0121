@@ -13,8 +13,9 @@
 ## 🧑‍💻 About me
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://raw.githubusercontent.com/Onion0121/Onion0121/main/Picture.png" width="350px">
 </picture>
+
 
 - 🎓 **SMR (Microcomputer Systems and Networks)** — 2nd year (Grado Medio)
 - 📍 Tarragona, Spain
