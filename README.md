@@ -73,7 +73,7 @@
 
 ### 🎯 Currently Working Towards
 
-- eCPPT
+- OSCP
 
 <br>
 
