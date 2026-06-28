@@ -17,7 +17,7 @@
 - 📚 Summer break before starting ASIR
 - 🔐 Passionate about Offensive Security & Penetration Testing
 - 🧪 eJPT Certified
-- 🎯 Currently preparing for the eCPPT
+- 🎯 Currently preparing for the OSCP
 - 🐧 Linux enthusiast
 - 🌐 Strong networking fundamentals
 - 🐳 Docker user
