@@ -1,125 +1,69 @@
-# 🧑‍💻 About Me
-
-<picture>
-  <img align="right" src="https://raw.githubusercontent.com/Onion0121/Onion0121/main/Picture.png" width="340px">
-</picture>
-
-- 🇪🇸 Spain
-- 🎓 SMX Graduate (Microcomputer Systems and Networks)
-- 📚 Summer break before starting ASIR
-- 🔐 Passionate about Offensive Security & Penetration Testing
-- 🧪 eJPT Certified
-- 🎯 Currently preparing for the OSCP
-- 🐧 Linux enthusiast
-- 🌐 Strong networking fundamentals
-- 🐳 Docker user
-- 💻 Daily Visual Studio Code user
-- 🚀 Learning through labs, CTFs and real-world practice
-
-<br><br>
-
----
-
-# 🛠️ Skills
-
-## Programming Languages
-
-| Language | Knowledge |
-|----------|-----------|
-| 🐍 Python | ███░░░░░░░ 30% |
-| 💻 Bash | ██░░░░░░░░ 20% |
-| ⚙️ C | ██░░░░░░░░ 20% |
-| 🌐 HTML | ██████░░░░ 60% |
-| 🎨 CSS | █████░░░░░ 50% |
-
-<br>
-
-## Technologies & Tools
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff9c)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff9c)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff9c)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00ff9c)
-![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00ff9c)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=00ff9c)
-![VMware](https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=00ff9c)
-
-<br>
-
----
-
-# 🏆 Certifications
-
+<!-- Github Stats -->
 <p align="center">
-
-<div align="left">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*KXRcpcS4sGp4xvLjhByI7A.png" height="130">
-</div>
-
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
+</p>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats-eight-sand-93.vercel.app/api?username=Onion0121&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true&border_radius=5" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-streak-stats-ten-blush.vercel.app?user=Onion0121&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </p>
 
-### ✅ Earned
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=3000&pause=200&color=b30000&width=435&lines=+Yassin+Azzouzi;Cyber" alt="CyberSecurity"/>
+</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- eJPT (INE Security)
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  **Skills**
 
-### 🎯 Currently Working Towards
-
-- OSCP
-
-<br>
-
----
-
-# 📖 Currently Learning
-
-- Active Directory
-- Windows Privilege Escalation
-- Linux Privilege Escalation
-- Web Exploitation
-- Bash Scripting
-- Python
-- C Programming
-- Red Team Methodology
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,gentoo,claude,tor,librewolf,bash,c,git,github,proxmox,vscode,tryhackme,hackthebox&theme=dark)
 
 <br>
-
----
-
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Onion0121&show_icons=true&theme=dark)
-
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion0121&layout=compact&theme=dark)
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> ***About me***
 
-<br>
+I'm a recent SMX (Microcomputer Systems & Networks) grad from Spain, currently on summer break before starting ASIR. I spend my free time deep in offensive security — labs, CTFs, and real-world practice.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Onion0121&theme=dark)
-
-</div>
-
-<br>
-
----
-
-# 🎯 Goal
-
-> Become a professional Penetration Tester specialized in Internal Networks, Active Directory and Red Team Operations.
-
-<br>
-
----
-
-# 🤝 Connect
-
-- 💻 **GitHub** → https://github.com/Onion0121
-
-<br>
+* 🎯 Currently prepping for the **OSCP**
+* ✅ **eJPT** certified (INE Security)
+* 🐧 Linux / networking daily driver
+* 🧪 Learning Active Directory & Windows/Linux privilege escalation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Reemplaza esta URL por el link directo del gif que copies de Tenor/Giphy -->
+<p align="center">
+  <img src="PON_AQUI_TU_URL_DEL_GIF" width="400px">
+</p>
+
+
+
+```
+                                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⠀⠀⠀⠀⡠⠖⠋⠉⠉⠳⡴⠒⠒⠒⠲⠤⢤⣀⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⠀⠀⣠⠊⠀⠀⡴⠚⡩⠟⠓⠒⡖⠲⡄⠀⠀⠈⡆⠀⠀⠀
+                                            ⠀⠀⢀⡞⠁⢠⠒⠾⢥⣀⣇⣚⣹⡤⡟⠀⡇⢠⠀⢠⠇⠀⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⢸⣄⣀⠀⡇⠀⠀⠀⠀⠀⢀⡜⠁⣸⢠⠎⣰⣃⠀⠀⠀⠀
+                                            ⠀⠀⠀⠸⡍⠀⠉⠉⠛⠦⣄⠀⢀⡴⣫⠴⠋⢹⡏⡼⠁⠈⠙⢦⡀⠀
+                                            ⠀⠀⠀⣀⡽⣄⠀⠀⠀⠀⠈⠙⠻⣎⡁⠀⠀⣸⡾⠀⠀⠀⠀⣀⡹⠂
+                                            ⠀⢀⡞⠁⠀⠈⢣⡀⠀⠀⠀⠀⠀⠀⠉⠓⠶⢟⠀⢀⡤⠖⠋⠁⠀⠀
+                                            ⠀⠀⠉⠙⠒⠦⡀⠙⠦⣀⠀⠀⠀⠀⠀⠀⢀⣴⡷⠋⠀⠀⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⠀⠀⠘⢦⣀⠈⠓⣦⣤⣤⣤⢶⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⢤⣤⣤⡤⠤⠤⠤⠤⣌⡉⠉⠁⠀⠀⢸⢸⠁⡠⠖⠒⠒⢒⣒⡶⣶⠤
+                                            ⠀⠉⠲⣍⠓⠦⣄⠀⠀⠙⣆⠀⠀⠀⡞⡼⡼⢀⣠⠴⠊⢉⡤⠚⠁⠀
+                                            ⠀⠀⠀⠈⠳⣄⠈⠙⢦⡀⢸⡀⠀⢰⢣⡧⠷⣯⣤⠤⠚⠉⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⠀⠈⠑⣲⠤⠬⠿⠧⣠⢏⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⠀⠀⠀⢀⡴⠚⠉⠉⢉⣳⣄⣠⠏⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⠀⣠⣴⣟⣒⣋⣉⣉⡭⠟⢡⠏⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⠀⠉⠀⠀⠀⠀⠀⠀⠀⢀⠏⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⢠⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                            ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠓⠚⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
