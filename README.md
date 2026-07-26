@@ -7,8 +7,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 </div>
 
-
-
 <p align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
 </p>
@@ -57,7 +55,7 @@ I'm a recent SMX (Microcomputer Systems & Networks) grad from Spain, currently o
 <tr>
 
 <td width="300px">
-<img width="300px" alt="No-One-Noticed" src="./NoOneNoticed.png"/>
+<img width="300px" alt="No-One-Noticed" src="./image.png"/>
 </td>
 
 <td width="300px">
