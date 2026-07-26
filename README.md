@@ -23,7 +23,11 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,gentoo,claude,tor,librewolf,bash,c,git,github,proxmox,vscode,tryhackme,hackthebox&theme=dark)
 
-<br>
+### Technologies & Tools:
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> ***About me***
