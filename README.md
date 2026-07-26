@@ -1,11 +1,4 @@
-<div align="center">
 
-<img 
-width="500px"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onion0121&theme=github_dark"
-/>
-
-</div>
 
 <p align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
