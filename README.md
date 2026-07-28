@@ -1,5 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0d0d0d&text=Yassin%20Azzouzi&textBg=false&section=header&fontAlign=50&animation=fadeIn&descAlign=50&fontColor=FFFFFF" />
+</p>
 
+<div align="center">
 <img 
 width="500px"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onion0121&theme=github_dark"
