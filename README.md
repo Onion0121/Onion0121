@@ -89,3 +89,8 @@ I'm a recent SMX (Microcomputer Systems & Networks) grad from Spain, currently o
 
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=2596be&textBg=false&section=footer&fontAlign=50&animation=fadeIn&descAlign=50&fontColor=000000" />
+</p>
+
