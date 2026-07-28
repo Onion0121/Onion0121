@@ -1,11 +1,8 @@
-
 <div align="center">
 <img 
-width="500px"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onion0121&theme=github_dark"
+width="300px"
+src="https://github-readme-stats-eight-sand-93.vercel.app/api/top-langs/?username=Onion0121&layout=donut-vertical&theme=dark&bg_color=000000&hide_border=true&langs_count=10"
 />
-
-</div>
 
 <p align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5%"> <strong>Github Stats</strong>
